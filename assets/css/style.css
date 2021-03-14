@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+* {
+box-sizing: border-box;
+}
+
+.page-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 34px;
+    color: #0c5cab;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+#refi_form {
+    background-color: #f0f0f0;
+    margin: 25px auto;
+    width: 75%;
+    min-width: 300px;
+    padding: 50px 50px;
+    box-shadow: 2px 2px 10px #0c5cab;
+}
+
+.panel {
+    border: 0px;
+}
+
+.panel-body {
+    background-color: #f0f0f0;
+    border-radius: 0px;
+    width: 100%;
+}
+
+#first {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+}
+
+.form-group label {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+.form-control {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #000;
+}
+
+table {
+    width: 100%;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.crm {
+    background-color: #2873bd;
+    padding: 20px 20px;
+    color: #f5f5f5;
+}
+
+td {
+    width: 45%;
+    padding: 5% 3%;
+}
+
+.left {
+    align-items: flex-start;
+}
+
+.right {
+    align-items: flex-end;
+}
+
+.panel-default button {
+    background-color: #0c5cab;
+    color: #fff;
+    border-radius: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+}
+
+.panel-default button:hover {
+    background-color: #2873bd;
+}
+
+.box {
+ width:800px;
+ margin:0 auto;
+}
+
+.active_tab1 {
+ background-color:#fff;
+ color:#333;
+ font-weight: 600;
+}
+
+.inactive_tab1 {
+ background-color: #f5f5f5;
+ color: #333;
+ cursor: not-allowed;
+}
+
+.has-error {
+ border-color:#cc0000;
+ background-color:#bb7970;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+* {
+box-sizing: border-box;
+}
+
+.page-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 34px;
+    color: #0c5cab;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+#refi_form {
+    background-color: #f0f0f0;
+    margin: 25px 25px;
+    width: 75%;
+    min-width: 300px;
+    padding: 50px 50px;
+    box-shadow: 2px 2px 10px #0c5cab;
+}
+
+.panel {
+    border: 0px;
+}
+
+.panel-body {
+    background-color: #f0f0f0;
+    border-radius: 0px;
+    width: 100%;
+}
+
+#first {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+}
+
+.form-group label {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.form-control {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #000;
+}
+
+table {
+    width: 75%;
+    padding: 10px 50px 10px 0px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.crm {
+    background-color: #2873bd;
+    padding: 20px 20px;
+    color: #f5f5f5;
+}
+
+td {
+    width: 40%;
+    padding: 5% 5%;
+}
+
+.left {
+    align-items: center;
+}
+
+.right {
+    align-items: center;
+}
+
+.panel-default button {
+    background-color: #0c5cab;
+    color: #fff;
+    border-radius: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+}
+
+.panel-default button:hover {
+    background-color: #2873bd;
+}
+
+.tab-content {
+ width:800px;
+ margin:auto auto;
+}
+
+.active_tab1 {
+ background-color:#fff;
+ color:#333;
+ font-weight: 600;
+}
+
+.inactive_tab1 {
+ background-color: #f5f5f5;
+ color: #333;
+ cursor: not-allowed;
+}
+
+.has-error {
+ border-color:#cc0000;
+ background-color:#bb7970;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
